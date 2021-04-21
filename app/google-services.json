@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "500385087619",
+    "firebase_url": "https://sign-2dbbe.firebaseio.com",
+    "project_id": "sign-2dbbe",
+    "storage_bucket": "sign-2dbbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500385087619:android:20e7d08e1a436098fc5bb6",
+        "android_client_info": {
+          "package_name": "com.example.locationreporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500385087619-bood2k7popvtvh4bo2ikp1l6de4m9vb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locationreporter",
+            "certificate_hash": "474709437cd224d4059595c43821a4d5f0b58f26"
+          }
+        },
+        {
+          "client_id": "500385087619-c2pbq4iq3ovbv8o2ulsfnuo13o808c66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNc1B58aCxNMEDN50vMjPOW8NHZqCe7mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500385087619-c2pbq4iq3ovbv8o2ulsfnuo13o808c66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

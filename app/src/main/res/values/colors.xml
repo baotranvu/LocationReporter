@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Black">#000000</color>
+    <color name="Orchid">#993399</color>
+    <color name="DarkMagetna">#8B008B</color>
+    <color name="White">#FFFF</color>
+    <color name="Silver">#C0C0C0</color>
+    <color name="Grey">#808080</color>
+    <color name="LightGrey">#D3D3D3</color>
+    <color name="Gainsboro">#DCDCDC</color>
+    <color name="GhostSmoke">#F8F8FF</color>
+    <color name="WhiteSomke">#F5F5F5</color>
+    <color name="SkyBlue">#87CEEB</color>
+    <color name="Accent">#03DAC5</color>
+    <color name="DarkSlateGray3">#79CDCD</color>
+    <color name="Primary1">#6BE400</color>
+    <color name="Primary2">#67AB2B</color>
+    <color name="Primary3">#469400</color>
+    <color name="Primary4">#92F23C</color>
+    <color name="Primary5">#ABF26D</color>
+    <color name="SecondaryA1">#00B060</color>
+    <color name="SecondaryA2">#218457</color>
+    <color name="SecondaryA3">#00733E</color>
+    <color name="SecondaryA4">#36D88E</color>
+    <color name="SecondaryA5">#61D8A2</color>
+    <color name="SecondaryB1">#CFF700</color>
+    <color name="SecondaryB2">#A3B92E</color>
+    <color name="SecondaryB3">#87A000</color>
+    <color name="SecondaryB4">#DDFB3F</color>
+    <color name="SecondaryB5">#E5FB71</color>
+</resources>

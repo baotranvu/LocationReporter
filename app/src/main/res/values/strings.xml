@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">My Location</string>
+    <string name="welcome">WELCOME</string>
+    <string name="copyright">Authors:Trần Vũ Bảo - Ngô Quốc Sơn - Đoàn Đức Doanh</string>
+    <string name="exit">Exit</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="setting">Setting</string>
+    <string name="map">Map</string>
+    <string name="log">Log</string>
+    <string name="send">send location</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="enable_sent_location">Enable sent location</string>
+    <string name="add_phone_number">Add phone number</string>
+    <string name="open_contacts">Open contacts</string>
+    <string name="add">ADD</string>
+    <string name="wrong_phone_number">Wrong phone number!</string>
+    <string name="info">Info</string>
+    <string name="description">Description:</string>
+    <string name="version_demo">Version: demo</string>
+    <string name="detail">A mini-application for tracking and sending position to the individual phone number.
+        It needs to connect the internet and require some permission like reading contacts, sending SMS, and location.</string>
+    <string name="save">Save</string>
+</resources>
